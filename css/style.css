@@ -1,0 +1,85 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 2px;
+  padding: 2px;
+}
+header{
+  font-family: "Bodoni";
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h1 {
+  font-family: "Bodoni";
+  color: #128ded;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+h2 {
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25pt;
+}
+
+p {
+  margin: 10px;
+  line-height: 2;
+  font-size: 25pt;
+}
+
+a {
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  font-size: 30pt;
+}
+
+a:hover {
+  color: #85CDFD;
+
+}
+div{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50pt;
+  color: black;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: #85CDFD;
+}
+dt{
+  font-size: 40px;
+  margin: 5px;
+}
+dd{
+  font-size: 20px;
+  margin: 2px;
+}
+dd p{
+  border-bottom: #85CDFD dashed 2px;
+}
+
+ul {
+  list-style-type: square;
+  color: #7286D3;
+  font-size: 20pt;
+
+}
+
+img {
+  min-width: 500px;
+  min-height: 125px;
+  padding: 10px;
+  border: 3px #1F8A70;
+
+}
+
+
+footer {
+  color: #9DF1DF;
+  background-color: #93BFCF;
+  text-align: center;
+}
+footer a{
+  color: #9DF1DF;
+}
